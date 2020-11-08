@@ -7,3 +7,7 @@ John Kneeling -
 Sanchit Kumar - 
 Nelson Fulton - 
 Kalp Patel - kmp6271@psu.edu / kalppatel3311@gmail.com
+
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Home.png)
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard2.png)
