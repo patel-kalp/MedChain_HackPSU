@@ -8,7 +8,7 @@ A tool that currently being used for COVID-19. Has predictions on the needed res
           K13.Jelks@gmail.com  
   LinkedIn - https://www.linkedin.com/in/kareem-jelks-id10t/   
   
-**John Kneeling**:       
+**John Keeling**:       
 
 **Sanchit Kumar:**  
   Email - sanchitbanati33@gmail.com  
