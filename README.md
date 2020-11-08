@@ -12,16 +12,16 @@ MedChain - Machine Learning Google Collab: https://colab.research.google.com/dri
 MedChain - Presentation: https://docs.google.com/presentation/d/1H91O7-YHBJnp99havHTkrJEAkTy24DOOYY-ES7mptms/edit#slide=id.ga1244f9189_2_36  
 MedChain - Figma: https://www.figma.com/file/c8byyvmPPlnmELj5ugAGup/Hackathon-2020?node-id=0%3A1  
 
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)  
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)  
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard2.png)  
+
 Pandas: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html   
 
 Reference Links:
 https://dced.pa.gov/pa-covid-19-medical-supply-portals/pennsylvania-covid-19-ppe-supplies-business-2-business-b2b-interchange-directory/
 
-Input Data:
+Input Data:  
 1.) https://www.health.pa.gov/topics/Documents/Diseases%20and%20Conditions/COVID-19%20County%20Data/County%20Case%20Counts_11-7-2020.pdf  
 2.) https://github.com/nytimes/covid-19-data  
 3.) https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx  
-
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard2.png)
