@@ -8,13 +8,13 @@ Sanchit Kumar - sanchitbanati33@gmail.com
 Nelson Fulton -   
 Kalp Patel - kmp6271@psu.edu / kalppatel3311@gmail.com  
 
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)
+![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard2.png)
+
 MedChain - Machine Learning Google Collab: https://colab.research.google.com/drive/1Lj9x9Sn010pGn4-QMJ5G_u0q1MwMRGXi  
 MedChain - Presentation: https://docs.google.com/presentation/d/1H91O7-YHBJnp99havHTkrJEAkTy24DOOYY-ES7mptms/edit#slide=id.ga1244f9189_2_36  
 MedChain - Figma: https://www.figma.com/file/c8byyvmPPlnmELj5ugAGup/Hackathon-2020?node-id=0%3A1  
-
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)  
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)  
-![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard2.png)  
 
 Pandas: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.describe.html   
 
