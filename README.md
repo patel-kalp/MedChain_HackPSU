@@ -5,7 +5,7 @@ MedChain: A Crisis Management Tool. A tool that currently being used for COVID-1
 Kareem Jelks - Kcj5106@psu.edu / K13.Jelks@gmail.com  
 John Kneeling -   
 Sanchit Kumar - sanchitbanati33@gmail.com  
-Nelson Fulton -   
+Nelson Fulton - nelsonfultonf@gmail.com  
 Kalp Patel - kmp6271@psu.edu  
 
 ![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)
