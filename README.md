@@ -19,7 +19,7 @@ A tool that currently being used for COVID-19. Has predictions on the needed res
   Email - nelsonfultonf@gmail.com  
   LinkedIn - www.linkedin.com/in/nelsonffernandes  
   
-**Kalp Patel:**
+**Kalp Patel:**  
   Email - kmp6271@psu.edu  
   LinkedIn - https://www.linkedin.com/in/kalp-patel  
 
