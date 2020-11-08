@@ -11,7 +11,8 @@ A tool that currently being used for COVID-19. Has predictions on the needed res
 **John Kneeling**:       
 
 **Sanchit Kumar:**  
-  Email - sanchitbanati33@gmail.com   
+  Email - sanchitbanati33@gmail.com  
+  LinkedIn - https://www.linkedin.com/in/banatisanchit/
   
 **Nelson Fulton:**  
   Email - nelsonfultonf@gmail.com  
