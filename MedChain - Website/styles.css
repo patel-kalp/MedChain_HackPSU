@@ -1,0 +1,265 @@
+body {
+    background-color: white;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.mainPrediction {
+    background-color: #d2d6cf;
+    border-radius: 30px;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+.supplyLocations {
+    background-color: #d2d6cf;
+    border-radius: 30px;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+}
+
+.numberOfCases {
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 2%;
+    padding-top: 2px;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.smartPredictions, .supplyChainSystem, .predictiveAnalytics {
+    background-color: white;
+    border-radius: 25px;
+    padding-left: 4%;
+    padding-top: 2px;
+    padding-right: 4%;
+    padding-bottom: 2%;
+    color: #669833;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.go {
+    background-color: #669833;
+    font-weight: bold;
+    color: white;
+    size: 30px;
+    border-radius: 10px;
+}
+
+.select{
+    background-color: #669833;
+    font-weight: bold;
+    color: white;
+    size: 30px;
+    border-radius: 10px;
+}
+
+.supplierWorldMap {
+    height: 90%;
+    width: 90%;
+}
+
+.predictions {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.greenBubble {
+    background-color: #669833;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 30px;
+    color: white;
+}
+
+.middle{
+    background-color: #d2d6cf;
+    border-radius: 20px;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#left{
+    float: left;
+    width: 100px;
+}
+#center{
+    padding-right: 15%;
+    margin: auto;
+    width: 100px;
+}
+#right{
+    float: right;
+    width: 100px;
+    padding-right: 20%;
+}
+
+#caseData {
+    height: 180%;
+    width: 180%;
+}
+
+#downloadData {
+    background-color: #669833;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    float: right;
+}
+
+.endBtn {
+    padding-right: 5%;
+}
+
+.endMsg {
+    background-color: #669833;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#responseHeader {
+    font-weight: 900;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#ending {
+    color: white;
+    float: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#resource {
+    float: right;
+    font-weight: 600;
+    color: white;
+}
+
+.body {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+}
+
+option, select {
+    color: #669833;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#midTite {
+    color: #669833;
+    font-weight: 1000;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#left1 {
+    float: left;
+    width: 140px;
+    text-align:center;
+}
+
+#center1 {
+    margin: auto;
+    width: 140px;
+    text-align:center;
+}
+
+#right1 {
+    float: right;
+    width: 140px;
+    text-align:center;
+}
+
+#h1 {
+    font-weight: bolder;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.title2 {
+    padding-left: 2%;
+    padding-right: 2%;
+    color:#669833;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.refresh {
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+    background-color:#669833;
+    color: white;
+    font-weight: bold;
+    float: right;
+}
+
+#right2 {
+    float: right;
+    width: 400px;
+    text-align:center;
+}
+
+#link {
+    color: #669833;
+    font-size: 20px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+#right3 {
+    float: right;
+    width: 1300px;
+    text-align: center;
+}
+
+.supplierMap {
+    text-align: center;
+}
+
+.predictionGraphs {
+    background-color: #d2d6cf;
+    border-radius: 30px;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+#predictionImage {
+    height: 450px;
+    width: 800px;
+    border-radius: 5px;
+}
+
+#supplyMap {
+    width: 1000px;
+    height: 700px;
+}

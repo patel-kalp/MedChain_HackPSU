@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Kalp Patel">
+        <title>Our Data</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js"></script>
+        <link rel="icon" type="image/png" href="img/Logo Icon.png">
+    </head>
+
+    <body>
+        <div class="body">
+            <div class="header">
+                <img src="img/logo-text.png" alt="">
+                <div id="right2">
+                    <a id="link" href="index.html">Home</a> &nbsp;
+                    <a id="link" href="dashboard.html">Dashboard</a> &nbsp;
+                    <a id="link" href="ourData.html"><u>Our Data </u></a> &nbsp;&nbsp;
+                </div>
+            </div>
+            <div class="dashboard">
+                <div class="title2">
+                    <button class="refresh" onClick="window.location.reload();">Refresh</button>
+                    <h2>
+                        <u>Out </u>Data Outcome
+                    </h2>
+                </div>
+                <div class="predictions">
+                    <div class='greenBubble'>
+                        <div id="left1">
+                            Prediction for <br><br>
+                            <span id="h1">Next Month</span>
+                        </div>
+                        <div id="right1">
+                            Product <br><br>
+                            <span id="h1">COVID-19</span>
+                        </div>
+                        <div id="center1">
+                            Condition <br><br>
+                            <span id="h1">PPE</span>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+            <div class="predictionGraphs">
+                <img id="predictionImage" src="img/PA_NorthernRegion_MLAnalytics/DecisionTreesModel.png"> <br>
+                <img id="predictionImage" src="img/PA_NorthernRegion_MLAnalytics/LinearRmodel.png"> <br>
+                <img id="predictionImage" src="img/PA_NorthernRegion_MLAnalytics/predictions.png"> <br>
+                <img id="predictionImage" src="img/PA_NorthernRegion_MLAnalytics/SVRmodel.png"> <br>
+                <img id="predictionImage" src="img/PA_SouthernRegion_ML_Analytics/DecisionTrees_model.png"> <br>
+                <img id="predictionImage" src="img/PA_SouthernRegion_ML_Analytics/LinearRmodel.png"> <br>
+                <img id="predictionImage" src="img/PA_SouthernRegion_ML_Analytics/predictions.png"> <br>
+                <img id="predictionImage" src="img/PA_SouthernRegion_ML_Analytics/SVR_model.png"> <br>
+            </div>
+            <br><br>
+            <div class="endBtn">
+                <div class="downloadData">
+                    <button id="downloadData" type="submit" onclick="window.open('PA_CovidData.zip')">
+                        DOWNLOAD DATA </button>
+                </div>
+            </div>
+        </div>
+        <br><br><br><br>
+        <div class="endMsg">
+            <div class="downloadData">
+                <h1 id="responseHeader">RESPONSE</h1>
+                <span id="ending">MedChain Response: Crisis Management Tool</span> <br><br>
+                <span id="ending">Created by: Jelks, John Keeling, Kalp Patel, Sanchit Kumar, Nelson Fulton,
+                    Ferndandes</span> <br><br>
+                <span id="ending">Challenges: COVID, Nittany AI, and Capital One</span> <br><br>
+                <span id="ending">2020</span>
+                <span id="resource">Ilustrations by unDRAW</span>
+                <br><br>
+            </div>
+        </div>
+    </body>
+
+</html>

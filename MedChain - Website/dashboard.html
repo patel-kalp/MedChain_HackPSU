@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- custom font: https://drive.google.com/drive/folders/1FJFJ4Xvv2NK_J-od47p-LAT3VJaXa0ry-->
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Kalp Patel">
+        <title>Dashboard</title>
+        <link rel="stylesheet" href="styles.css">
+        <script src="scripts.js"></script>
+        <link rel="icon" type="image/png" href="img/Logo Icon.png">
+    </head>
+
+    <body>
+        <div class="body">
+            <div class="header">
+                <img src="img/logo-text.png" alt="">
+                <div id="right2">
+                    <a id="link" href="index.html">Home</a> &nbsp;
+                    <a id="link" href="dashboard.html"><u>Dashboard</u></a> &nbsp;
+                    <a id="link" href="ourData.html">Our Data</a> &nbsp;&nbsp;
+                </div>
+            </div>
+            <div class="dashboard">
+                <div class="title2">
+                    <button class="refresh" onClick="window.location.reload();">Refresh</button>
+                    <h2>
+                        <u>Dashboard</u> Data Outcome
+                    </h2>
+                </div>
+                <div class=" predictions">
+                    <div class='greenBubble'>
+                        <div id="left1">
+                            Prediction for <br><br>
+                            <span id="h1">Next Month</span>
+                        </div>
+                        <div id="right1">
+                            Product <br><br>
+                            <span id="h1">COVID-19</span>
+                        </div>
+                        <div id="center1">
+                            Condition <br><br>
+                            <span id="h1">PPE</span>
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <div class="mainPrediction">
+                <div class="predictiveAnalytics">
+                    <div class="top">
+                        <h2>
+                            <u>Predictive</u> Analytics
+                        </h2>
+                        <!-- Nav Bar -->
+                    </div>
+                    <div class="middle">
+                        <div class="numberOfCases">
+                            <br>
+                            Number of Cases: <input type="text" id="numberofPeople" value="300">
+                            <button class="go" onclick="getRequirements()">Calculate Requriements</button>
+
+                        </div>
+                        <br>
+                        <div id="center">
+                            <label id="midTitle">By County:</label>
+                            <select>
+                                <option value="1">Adams</option>
+                                <option value="2">Allegheny</option>
+                                <option value="3">Armstrong</option>
+                                <option value="4">Beaver</option>
+                                <option value="5">Bedford</option>
+                                <option value="6">Berks</option>
+                                <option value="7">Blair</option>
+                                <option value="8">Bradford</option>
+                                <option value="9">Bucks</option>
+                                <option value="10">Butler</option>
+                                <option value="11">Cambria</option>
+                                <option value="12">Cameron</option>
+                                <option value="13">Carbon</option>
+                                <option value="14">Centre</option>
+                                <option value="15">Chester</option>
+                                <option value="16">Clarion</option>
+                                <option value="17">Clearfield</option>
+                                <option value="18">Clinton</option>
+                                <option value="19">Columbia</option>
+                                <option value="20">Crawford</option>
+                                <option value="21">Cumberland</option>
+                                <option value="22">Dauphin</option>
+                                <option value="23">Delaware</option>
+                                <option value="24">Elk</option>
+                                <option value="25">Erie</option>
+                                <option value="26">Fayette</option>
+                                <option value="27">Forest</option>
+                                <option value="28">Franklin</option>
+                                <option value="29">Fulton</option>
+                                <option value="30">Greene</option>
+                                <option value="31">Huntingdon</option>
+                                <option value="32">Indiana</option>
+                                <option value="33">Jefferson</option>
+                                <option value="34">Juniata</option>
+                                <option value="35">Lackawanna</option>
+                                <option value="36">Lancaster</option>
+                                <option value="37">Lawrence</option>
+                                <option value="38">Lebanon</option>
+                                <option value="39">Lehigh</option>
+                                <option value="40">Luzerne</option>
+                                <option value="41">Lycoming</option>
+                                <option value="42">McKean</option>
+                                <option value="43">Mercer</option>
+                                <option value="44">Mifflin</option>
+                                <option value="45">Monroe</option>
+                                <option value="46">Montgomery</option>
+                                <option value="47">Montour</option>
+                                <option value="48">Northampton</option>
+                                <option value="49">Northumberland</option>
+                                <option value="50">Perry</option>
+                                <option value="51">Philadelphia</option>
+                                <option value="52">Pike</option>
+                                <option value="53">Potter</option>
+                                <option value="54">Schuylkill</option>
+                                <option value="55">Snyder</option>
+                                <option value="56">Somerset</option>
+                                <option value="57">Sullivan</option>
+                                <option value="58">Susquehanna</option>
+                                <option value="59">Tioga</option>
+                                <option value="60">Union</option>
+                                <option value="61">Venango</option>
+                                <option value="62">Warren</option>
+                                <option value="63">Washington</option>
+                                <option value="64">Wayne</option>
+                                <option value="65">Westmoreland</option>
+                                <option value="66">Wyoming</option>
+                                <option value="67">York</option>
+                            </select>
+                        </div>
+                        <div id="right3">
+                            <button class="select" onclick="countyPA()">Select</button>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="bottom">
+                        <div id="center">
+                            <img id="caseData" src="img/countyGraph.png" alt="county covid graph">
+                        </div>
+                    </div>
+                </div>
+                <br><br>
+                <div class="smartPredictions">
+                    <div>
+                        <h2>
+                            <u>Smart</u> Predictions
+                        </h2>
+                        <ul class="text" id="text">
+                            <li>
+                                <span id="PPE_Prediction">Based on the predicted cases for the next 30 days. We
+                                    recommended having 390 PPE units before on Nov 3rd. 2020.</span>
+                            </li>
+                            <br>
+                            <li>
+                                Shipping from China is the cheapest option and the shipping time should meet the
+                                deadline.
+                            </li>
+                            <br>
+                            <li>
+                                <span id="doctorsNursesPrediction">It is advised to have 8 ER doctors and 5 nurses on
+                                    the field.</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="supplyLocations">
+                <div class="supplyChainSystem">
+                    <div class=top>
+                        <h2>
+                            <u>COVID-19</u> Heat Map
+                        </h2>
+                        <!-- Nav Bar -->
+                    </div>
+                    <div class="bottom">
+                        <img class="supplierWorldMap" src="./img/CovidMap.jpg" alt="Covid Heat Map">
+                        <br>
+                        <span>Analyzing Target areas around Pennsylvania</span>
+                        <div class="supplierMap">
+                            <img id="supplyMap" src="img/supplyMap.PNG">
+                        </div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+
+        </div>
+        <div class="endBtn">
+            <div class="downloadData">
+                <button id="downloadData" type="submit" onclick="window.open('intelligentSupplyChain.zip')">
+                    DOWNLOAD DATA </button>
+            </div>
+        </div>
+        <br><br><br><br>
+        <div class="endMsg">
+            <div class="downloadData">
+                <h1 id="responseHeader">RESPONSE</h1>
+                <span id="ending">MedChain Response: Crisis Management Tool</span> <br><br>
+                <span id="ending">Created by: Jelks, John Keeling, Kalp Patel, Sanchit Kumar, Nelson Fulton,
+                    Ferndandes</span> <br><br>
+                <span id="ending">Challenges: COVID, Nittany AI, and Capital One</span> <br><br>
+                <span id="ending">2020</span>
+                <span id="resource">Ilustrations by unDRAW</span>
+                <br><br>
+            </div>
+        </div>
+    </body>
+
+</html>
