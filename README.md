@@ -6,7 +6,7 @@ Kareem Jelks - Kcj5106@psu.edu / K13.Jelks@gmail.com
 John Kneeling -   
 Sanchit Kumar - sanchitbanati33@gmail.com  
 Nelson Fulton -   
-Kalp Patel - kmp6271@psu.edu / kalppatel3311@gmail.com  
+Kalp Patel - kmp6271@psu.edu  
 
 ![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/medChain_Home.png)
 ![alt text](https://github.com/kalpP/MedChain_HackPSU/blob/main/MedChain%20-%20Figma%20designs/MedChain_Dashboard1.png)
