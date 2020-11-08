@@ -3,18 +3,21 @@
 A tool that currently being used for COVID-19. Has predictions on the needed resources (PPE, ER Doctors, Nurses). It also uses Machine Learning to predict the trends in Pennsylvania Counties (can be scaled up).
 
 **Group Members:**  
-Kareem Jelks:  
+**Kareem Jelks:**  
   Email - Kcj5106@psu.edu
           K13.Jelks@gmail.com  
-  LinkedIn - https://www.linkedin.com/in/kareem-jelks-id10t/  
-John Kneeling -   
-Sanchit Kumar:  
-  Email - sanchitbanati33@gmail.com  
-Nelson Fulton:  
+  LinkedIn - https://www.linkedin.com/in/kareem-jelks-id10t/   
+  
+**John Kneeling**:       
+
+**Sanchit Kumar:**  
+  Email - sanchitbanati33@gmail.com   
+  
+**Nelson Fulton:**  
   Email - nelsonfultonf@gmail.com  
   LinkedIn - www.linkedin.com/in/nelsonffernandes  
   
-Kalp Patel:
+**Kalp Patel:**
   Email - kmp6271@psu.edu  
   LinkedIn - https://www.linkedin.com/in/kalp-patel  
 
