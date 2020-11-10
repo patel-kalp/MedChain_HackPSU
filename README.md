@@ -29,7 +29,6 @@ A tool that currently being used for COVID-19. Has predictions on the needed res
 
 MedChain - Submission Video: https://youtu.be/uRv4BiPntR8   
 MedChain - Machine Learning: https://colab.research.google.com/drive/1Lj9x9Sn010pGn4-QMJ5G_u0q1MwMRGXi    
-MedChain - Website Live Demo: https://kalppatel.dev _(Note: There might be issues with CSS with the live demo. However, the issue is not present if you run the website locally)._    
 MedChain - Figma: https://www.figma.com/file/c8byyvmPPlnmELj5ugAGup/Hackathon-2020?node-id=0%3A1   
 MedChain - Presentation: https://docs.google.com/presentation/d/1H91O7-YHBJnp99havHTkrJEAkTy24DOOYY-ES7mptms/edit#slide=id.ga1244f9189_2_36    
 
