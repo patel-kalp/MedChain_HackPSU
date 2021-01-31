@@ -2,6 +2,8 @@
 **MedChain:** _A Crisis Management Tool_.  
 A tool that currently being used for COVID-19. Has predictions on the needed resources (PPE, ER Doctors, Nurses). It also uses Machine Learning to predict the trends in Pennsylvania Counties (can be scaled up).
 
+https://devpost.com/software/medchain-response-crisis-management-tool
+
 **Group Members:**  
 **Kareem Jelks:**  
   Email - Kcj5106@psu.edu
